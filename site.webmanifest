@@ -1,0 +1,21 @@
+{
+  "name": "Cory A. Ross",
+  "short_name": "Cory A. Ross",
+  "description": "Tech marketing, AI, and emerging technology.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070807",
+  "theme_color": "#070807",
+  "icons": [
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

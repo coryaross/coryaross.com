@@ -366,7 +366,7 @@ h2 {
 .writing-list a:nth-child(2n)::after { background: radial-gradient(circle at 72% 50%, var(--gold) 0 16%, transparent 17%), linear-gradient(145deg, var(--teal) 0 40%, var(--rust) 40% 58%, var(--olive) 58%); }
 .writing-list a:hover { transform: translateY(-5px) rotate(-.4deg); }
 .writing-list a span:first-child { font: 400 1.17rem/1.1 var(--display); }
-.writing-list a span:last-child { margin-top: auto; padding-top: 14px; color: #6e5840; font: 700 .66rem/1.3 var(--mono); letter-spacing: .05em; text-transform: uppercase; }
+.writing-list a span:last-child { margin-top: auto; padding-top: 14px; color: #6e5840; font: 700 .72rem/1.35 var(--mono); letter-spacing: .02em; }
 
 .contact-section { align-items: center; }
 .contact-panel { display: grid; gap: 18px; }
